@@ -15,4 +15,4 @@
 
 Всю вышеперечисленную информацию Вы можете найти в папке **Тестирование**
 
-Ссылка на Google-диск <span><a  href="(https://drive.google.com/drive/folders/1UblsT8IIWu3OUSDKJsPhvVXYXWdCf8Jz?usp=drive_link)">клик!</a></span>
+Ссылка на Google-диск <span><a  href="https://drive.google.com/drive/folders/1UblsT8IIWu3OUSDKJsPhvVXYXWdCf8Jz?usp=drive_link">клик!</a></span>
